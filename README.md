@@ -58,5 +58,3 @@ Contributions are welcome! Please submit issues or pull requests for improvement
 This project is open-source and available under the MIT License.
 
 ```
-
-Feel free to modify any sections to better fit your project specifics!
